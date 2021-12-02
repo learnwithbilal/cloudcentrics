@@ -20,3 +20,6 @@ bench restart
 ```
 bench clear-cache
 ```
+```
+bench start
+```

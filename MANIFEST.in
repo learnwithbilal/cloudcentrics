@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include cloudcentrics *.css
+recursive-include cloudcentrics *.csv
+recursive-include cloudcentrics *.html
+recursive-include cloudcentrics *.ico
+recursive-include cloudcentrics *.js
+recursive-include cloudcentrics *.json
+recursive-include cloudcentrics *.md
+recursive-include cloudcentrics *.png
+recursive-include cloudcentrics *.py
+recursive-include cloudcentrics *.svg
+recursive-include cloudcentrics *.txt
+recursive-exclude cloudcentrics *.pyc
